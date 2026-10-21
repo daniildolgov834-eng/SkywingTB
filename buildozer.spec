@@ -26,7 +26,7 @@ version = 3.4.2
 
 # (list) Application requirements
 # pygame==2.1.3 is the most stable version for python-for-android
-requirements = python3,kivy==2.1.0,pygame==2.1.3,numpy,opencv,pyjnius,android
+requirements = python3,kivy==2.1.0,pygame==2.1.3,numpy,pyjnius,android
 
 # (str) Presplash of the Application
 # presplash.filename = %(source.dir)s/icons/game_icon.png
