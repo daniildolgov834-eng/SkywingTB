@@ -1,0 +1,5 @@
+build/ 
+dist/ 
+__pycache__/ 
+tv_tapes/ 
+tv_videos/ 
